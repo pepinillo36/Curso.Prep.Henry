@@ -1,0 +1,9 @@
+Variables: Es una forma de guardar un dato que se puede usar cuando se desee
+
+Strings: es un tipo de dato que permite una cadena de letras.
+
+Funciones (argumentos, return): las funciones con argumentos nos permiten introducir parámetros, y las funciones con return nos devuelven un valor.
+
+Declaraciones if: son declaraciones condicionales que nos permiten realizar algo de acuerdo a una decisión.
+
+Valores booleanos (true, false): los valores booleanos son un tipo de datos que pueden ser verdadero o falso

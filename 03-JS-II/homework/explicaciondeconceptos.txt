@@ -1,0 +1,7 @@
+for: se usa cuando deseamos repetir un conjunto de instrucciones de forma finita
+
+&& : Es un operador lógico el resultado es verdadero si ambas expresiones son verdaderas
+
+|| : Es un operador que se llama 'or'  devuelve un valor verdadero si una o ambas expresiones son verdaderas
+
+! : Este operador es llamado 'NOT' devuelve el valor contrario a la expresión evaluada

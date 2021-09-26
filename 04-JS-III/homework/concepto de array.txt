@@ -1,0 +1,1 @@
+Array: Es un tipo de dato que permite almacenar o guardar un conjunto de datos de cualquier tipo, incluyendo otro grupo de conjuntos dentro de este conjunto.

@@ -1,0 +1,21 @@
+Objetos: Los objetos son parecidos a las matrices con la diferencia que estos pueden guardar mas información de una sola cosa.
+            
+            var carro= {
+                   
+                   color: 'rojo',
+                   modelo: 'Berlina',
+
+            }
+
+
+
+
+Propiedades: Es una relación entre un nombre y un valor. Ejemplo  edad: 13.
+
+
+Métodos: son las funciones dentro de un objeto.
+
+Bucle for....in : Es un bucle que sirve para recorrer cada propiedad de un objeto
+
+
+Notación de puntos vs notación de corchetes: la notación de puntos se realiza para hacer referencia al valor de una propiedad y el uso del corchete para hacer mención de todas las propiedades de un objeto

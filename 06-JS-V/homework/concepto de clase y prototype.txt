@@ -1,0 +1,4 @@
+ `prototype`: Es un objeto utilizado para implementar la herencia. Cada objeto cuando se crea recibe su prototipo, sino esta estblacido explicitamente, los objetos reciben un prototipo predeterminado
+
+
+ _Constructors_ (de Clases): Las clases nos permiten crear objetos que comparten algunas de las mismas propiedades y métodos.
